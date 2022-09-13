@@ -1,0 +1,14 @@
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\bin\Debug\netcoreapp3.1\ProjectBeansprout.exe
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\bin\Debug\netcoreapp3.1\ProjectBeansprout.deps.json
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\bin\Debug\netcoreapp3.1\ProjectBeansprout.runtimeconfig.json
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\bin\Debug\netcoreapp3.1\ProjectBeansprout.runtimeconfig.dev.json
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\bin\Debug\netcoreapp3.1\ProjectBeansprout.dll
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\bin\Debug\netcoreapp3.1\ProjectBeansprout.pdb
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\obj\Debug\netcoreapp3.1\ProjectBeansprout.csproj.AssemblyReference.cache
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\obj\Debug\netcoreapp3.1\ProjectBeansprout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\obj\Debug\netcoreapp3.1\ProjectBeansprout.AssemblyInfoInputs.cache
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\obj\Debug\netcoreapp3.1\ProjectBeansprout.AssemblyInfo.cs
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\obj\Debug\netcoreapp3.1\ProjectBeansprout.csproj.CoreCompileInputs.cache
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\obj\Debug\netcoreapp3.1\ProjectBeansprout.dll
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\obj\Debug\netcoreapp3.1\ProjectBeansprout.pdb
+C:\Users\snordin.ladm\source\repos\ProjectBeansprout\ProjectBeansprout\obj\Debug\netcoreapp3.1\ProjectBeansprout.genruntimeconfig.cache
